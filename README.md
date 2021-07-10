@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Advait-Sawant
 - 👀 I’m interested in machine learning and blockchain
-- 🌱 I’m currently learning R Programming
+- 🌱 I’m currently learning Tensorflow and R Programming
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 Reach me on AdvaitSawant@protonmail.com
 - [My full CV](Advait_Sawant_s_Resume__Data_Scientist_.pdf)
